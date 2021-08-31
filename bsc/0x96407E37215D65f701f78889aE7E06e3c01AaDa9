@@ -1,0 +1,11 @@
+{
+ "name": "BJX Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+ "type": "BEP20",
+ "symbol": "BJX",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x96407E37215D65f701f78889aE7E06e3c01AaDa9"
+}
